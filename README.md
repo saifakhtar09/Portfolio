@@ -3,8 +3,8 @@
 
 > ![image]()
 >  
-> 🔗 [View on GitHub](https://github.com/seraprogrammer/portfolio-v2)
-> 🔗 [v2 Portfolio](https://codervai2.vercel.app)
+> 🔗 [View on GitHub]
+> 🔗 [v2 Portfolio]
 
 
 
