@@ -29,7 +29,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ---
 
-## Live Preview ![Portfolio Demo ]
+## Live Preview 
 
 Check out the live preview of the portfolio website here:  
 [**Live Demo**](https://portfoliowebsite1101.netlify.app/)
