@@ -26,11 +26,10 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 ![image](https://i.postimg.cc/vZDv5BNH/p1.jpg)
-![Portfolio Demo](https://portfoliowebsite1101.netlify.app/)
 
 ---
 
-## Live Preview
+## Live Preview ![Portfolio Demo ]
 
 Check out the live preview of the portfolio website here:  
 [**Live Demo**](https://portfoliowebsite1101.netlify.app/)
