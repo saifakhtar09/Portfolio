@@ -160,7 +160,7 @@ You will need to download **Git** and **Node** to run this project.
 2. After forking, open your terminal and run the following commands to clone the repo:
 
   ```bash
-  git clone()
+  git clone https://github.com/saifakhtar09/Portfolio
   ```
 Navigate to the Project Directory 📂
 Once the repository is cloned, change your directory to the project folder:
