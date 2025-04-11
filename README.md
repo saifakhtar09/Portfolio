@@ -117,6 +117,7 @@ The portfolio website consists of the following sections:
 
 - **Home**: Introduction and a brief overview.
 - **Skills**: A detailed list of my technical skills.
+- **Certification**:  A detailed list of my Certifications.
 - **Experience**: My professional journey and work experience.
 - **Education**: Academic background and certifications.
 - **Projects**: A showcase of the projects I've worked on.
