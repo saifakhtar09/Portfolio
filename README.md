@@ -1,11 +1,10 @@
 
 ## Version 2  
 
-> 
+>  ![image](https://i.postimg.cc/vZDv5BNH/p1.jpg)
 >  
 > 🔗 [View on GitHub]
-> 🔗 [v2 Portfolio] ![image](https://i.postimg.cc/vZDv5BNH/p1.jpg)
-
+> 🔗 [v2 Portfolio] 
 
 
 # Portfolio Website
